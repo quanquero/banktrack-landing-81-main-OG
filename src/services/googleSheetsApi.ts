@@ -54,7 +54,7 @@ export interface ProcessedTransferData {
 }
 
 // Your Google Sheets spreadsheet ID
-const SPREADSHEET_ID = "1Q2oQBZC2TFOturHR-IpK7uVCsEJiIgTID3YqIM5Pd0g";
+const SPREADSHEET_ID = "\";
 const SHEET_NAME = "TransferData";
 
 // Function to fetch data from Google Sheets
